@@ -29,6 +29,8 @@ body {
   letter-spacing: 0.1vw;
 }
 .content {
+  width: fit-content;
+  max-width: 100%;
   font-size: 4.5vw;
   color: black;
   line-height: 1.5;
